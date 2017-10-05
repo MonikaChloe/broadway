@@ -11,6 +11,11 @@ h1 {
 
 .nav {
   color: white;
+  font-size: 18px;
+}
+
+.header {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 h2 {
@@ -31,6 +36,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .copyright {
@@ -46,4 +52,5 @@ p {
 
 a {
   color: white;
+  font-size: 18px;
 }
