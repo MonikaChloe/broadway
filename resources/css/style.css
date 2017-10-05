@@ -9,6 +9,10 @@ h1 {
   color: white;
 }
 
+.nav {
+  color: white;
+}
+
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -29,16 +33,17 @@ p {
   color: white;
 }
 
+.copyright {
+  color: white;
+}
+
 .footer {
   font-size: 11px;
+  color: white;
   background-color: dimgray;
   text-align: left;
 }
 
 a {
-  color: white;
-}
-
-div {
   color: white;
 }
